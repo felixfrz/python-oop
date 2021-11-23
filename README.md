@@ -1,4 +1,4 @@
 Pyhton Object Oriented Programming. 
 
-[python]: # Language: markdown
+[]: # Language: markdown
 []: # Path: README.md
