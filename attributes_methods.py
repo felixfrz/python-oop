@@ -3,7 +3,6 @@ from turtle import Turtle, Screen
 
 timmy = Turtle()
 
-print(timmy)
 timmy.shape('turtle')
 timmy.color('green')
 timmy.forward(distance=100)
